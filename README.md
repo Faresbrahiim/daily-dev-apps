@@ -3,7 +3,6 @@
   <strong>Everything you see on daily.dev 👀</strong>
 </div>
 <br>
-
 <p align="center">
   <a href="https://circleci.com/gh/dailydotdev/apps">
     <img src="https://img.shields.io/circleci/build/github/dailydotdev/apps/**master**.svg" alt="Build Status">
@@ -93,7 +92,6 @@ pnpm install
 ```
 
 ### Run Extension Locally
-
 Example for Chrome:
 
 - Run `pnpm --filter extension dev:chrome` in the root directory
